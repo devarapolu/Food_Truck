@@ -1,4 +1,4 @@
-# FoodX Exploration Project
+# Food Truck Exploration Project
 
 ## Project Overview
 
@@ -31,7 +31,8 @@ git clone [URL of the FoodX GitHub repository]
 ```
 
 ### Install the required packages:
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 ### Running the Notebook
@@ -54,7 +55,8 @@ The project requires API keys for Google Maps and Yelp. Follow these steps to se
 1. Create a file named APIKEY.env in the root directory of the project.
 2. Obtain your Google Maps and Yelp API keys
 3. Add your API keys to the APIKEY.env file:
-```GOOGLE_API_KEY='Your_Google_Maps_API_Key'
+```
+GOOGLE_API_KEY='Your_Google_Maps_API_Key'
 YELP_API_KEY='Your_Yelp_API_Key'
 ```
 
