@@ -1,0 +1,12 @@
+Day,Time,Name,Address,Cuisine,Travel Time (mins),Travel Distance (miles),Transportation Type
+Saturday,10:00 AM,The Night Owl Food Truck,"South and, S Meridian St, Indianapolis, IN 46225, United States",,,,
+Saturday,12:00 PM,Traveling...,,,2,1.1,Personal Car
+Saturday,12:02 PM,ClusterTruck,"729 N Pennsylvania St, Indianapolis, IN 46204, United States",,,,
+Saturday,2:02 PM,Traveling...,,,8,4.14,Personal Car
+Saturday,2:10 PM,Pico de Gallo Food Truck,"3014 Lafayette Rd #3000, Indianapolis, IN 46222, United States",Mexican,,,
+Saturday,4:10 PM,Traveling...,,,6,3.2,Personal Car
+Saturday,4:16 PM,FELIX TACOS TRUCK,"3145 W Washington St, Indianapolis, IN 46222, United States",,,,
+Saturday,6:16 PM,Traveling...,,,3,1.67,Personal Car
+Sunday,6:20 PM,El Amigo Taqueria Food Truck,"3356 W 16th St, Indianapolis, IN 46222, United States","Mexican, Vegetarian",,,
+Sunday,8:20 PM,Traveling...,,,23,11.4,Personal Car
+Sunday,8:43 PM,The Latin Flavor - Food Truck,"9130 E 38th St, Indianapolis, IN 46235, United States","Empanadas, Latin American, Mexican",,,
